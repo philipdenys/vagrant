@@ -1,6 +1,6 @@
 ### USE
 
-* [Install Vagrant](http://www.vagrantup.com/download)
+* [Install Vagrant](https://www.vagrantup.com/downloads.html)
 * Create a working directory and `cd` into it
 * Install Vagrant plugins: `vagrant plugin install vagrant-hostmanager`
 * Get Vagrantfile: `curl -OL https://vagrant.magehost.pro/Vagrantfile`
